@@ -1,4 +1,3 @@
-# Exercise 1
 ## Items needed:
 * Smorphi/Smorphi2 kit, which includes the manual and toolbox
 * An Android smartphone or tablet
