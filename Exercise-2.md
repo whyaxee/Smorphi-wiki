@@ -1,5 +1,3 @@
-# Exercise 2
-
 ## Items needed:
 * An assembled Smorphi/ Smorphi2 robot
 * A computer
