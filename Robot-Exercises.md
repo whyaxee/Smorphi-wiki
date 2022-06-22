@@ -6,7 +6,7 @@ For owners of a Smorphi, you can safely and easily follow the exercises up til e
 ### [Exercise 1 - Putting your robot together](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-1)
 Assemble your robot and linking your robot to its control app for a quick start.
 
-### Exercise 2 - Setting up your Smorphi for coding
+### [Exercise 2 - Setting up your Smorphi for coding](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-2)
 Learn about the various coding software and how to set them up which you will need to customise your Smorphi to perform various tasks. 
 
 ### Exercise 3 - Documentation
