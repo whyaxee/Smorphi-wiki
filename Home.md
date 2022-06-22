@@ -8,5 +8,5 @@ Our current Android app is still being approved by the Google play store, and we
 
 # Robot exercises
 
-There are many things you can do with your Smorphi and Smorphi2 robots. Do explore some of the exercises below to access some mini projects and tasks you can do with your Smorphi.
+There are many things you can do with your Smorphi and Smorphi2 robots. Do explore some of the [exercises](https://github.com/WefaaRobotics/Smorphi/wiki/Robot-Exercises) to access some mini projects and tasks you can do with your Smorphi.
 
