@@ -3,7 +3,7 @@ There are up to 15 exercises here that accompanies your Smorphi and Smorphi2 kit
 For owners of a Smorphi, you can safely and easily follow the exercises up til exercise 7. From exercise 8 onwards, there may be some tasks you will not be able to complete due to the required sensors or parts not being included in your kit. 
 
 ## List of Robot exercises:
-### Exercise 1 - Putting your robot together
+### [Exercise 1 - Putting your robot together](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-1)
 Assemble your robot and linking your robot to its control app for a quick start.
 
 ### Exercise 2 - Setting up your Smorphi for coding
