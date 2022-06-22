@@ -1,0 +1,49 @@
+# Robot Exercises
+There are up to 15 exercises here that accompanies your Smorphi and Smorphi2 kits.
+For owners of a Smorphi, you can safely and easily follow the exercises up til exercise 7. From exercise 8 onwards, there may be some tasks you will not be able to complete due to the required sensors or parts not being included in your kit. 
+
+## List of Robot exercises:
+### Exercise 1 - Putting your robot together
+Assemble your robot and linking your robot to its control app for a quick start.
+
+### Exercise 2 - Setting up your Smorphi for coding
+Learn about the various coding software and how to set them up which you will need to customise your Smorphi to perform various tasks. 
+
+### Exercise 3 - Documentation
+Look through and understand how to read coding documentation, and explore the various functions provided.
+
+### Exercise 4 - Basic Arduino coding
+Learn basic Arduino coding structures, like variables, loops and conditionals.
+
+### Exercise 5 - Temperature sensor 
+Set up and use your Smorphi kit's temperature sensor for various activities and purposes
+
+### Exercise 6 - Sound sensor
+Set up and use your Smorphi kit's sound sensors for various activities and purposes
+
+### Exercise 7 - Infrared (IR) for obstacle detection
+Set up and use your Smorphi kit's IR sensors for various obstacle detection purposes
+
+### Exercise 8 - Simple line following using 2 IR sensors
+Install your Smorphi kit's IR sensors on to your Smorphi2 for your Smorphi2 to follow a line on the ground
+
+### Exercise 9 - Line following and obstacle detection combine
+Challenge yourself by implementing line following with obstacle detection at the same time using just IR sensors
+
+### Exercise 10 - Simple maze navigation
+Code your Smorphi to allow it to navigate through a simple maze
+
+### Exercise 11 - Maze with shape change
+A slightly more complicated maze with varying widths that require shape change to navigate through
+
+### Exercise 12 - Pixycam
+Introducing the Pixycam usage and set up
+
+### Exercise 13 - Integrate pixycam onto robot
+Connecting Pixycam to your Smorphi2 as a sensor
+
+### Exercise 14 - Object tracking using pixycam 
+Using your Pixycam to track and follow objects
+
+### Exercise 15 - bring them through the code, ask them to make their own library
+Code exploration exercise to understand the background functions in depth
