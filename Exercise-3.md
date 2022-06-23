@@ -4,10 +4,10 @@
 * A USB to USB-c cable
 * Internet connection
 ## Objectives of exercise:
-* Learn how to read code documentation
-* Figure out what are the functions that are present in the library and how to use those functions
-* Basic coding skills (how to call and use predefined functions)
-* Learning about code libraries and how they work
+1. Learn how to read code documentation
+2. Figure out what are the functions that are present in the library and how to use those functions
+3. Basic coding skills (how to call and use predefined functions)
+4. Learning about code libraries and how they work
 
 <br />
 
