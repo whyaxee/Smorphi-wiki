@@ -20,7 +20,7 @@ Set up and use your Smorphi kit's temperature sensor for various activities and 
 ### [Exercise 6 - Sound sensor](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-6)
 Set up and use your Smorphi kit's sound sensors for various activities and purposes
 
-### Exercise 7 - Infrared (IR) for obstacle detection
+### [Exercise 7 - Infrared (IR) for obstacle detection](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-7)
 Set up and use your Smorphi kit's IR sensors for various obstacle detection purposes
 
 ### Exercise 8 - Simple line following using 2 IR sensors
