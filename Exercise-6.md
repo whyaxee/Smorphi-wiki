@@ -1,3 +1,4 @@
+This exercise is still currently under revision. We will update the latest version soon!
 ## Items needed:
 * An assembled Smorphi/ Smorphi2 robot
 * Wefaa sound sensor
