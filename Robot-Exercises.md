@@ -8,10 +8,10 @@ Assemble your robot and linking your robot to its control app for a quick start.
 ### [Exercise 2 - Setting up your Smorphi for coding](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-2)
 Learn about the various coding software and how to set them up which you will need to customise your Smorphi to perform various tasks. 
 
-### Exercise 3 - Documentation
+### [Exercise 3 - Documentation](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-3)
 Look through and understand how to read coding documentation, and explore the various functions provided.
 
-### Exercise 4 - Basic Arduino coding
+### [Exercise 4 - Basic Arduino coding](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-4)
 Learn basic Arduino coding structures, like variables, loops and conditionals.
 
 ### Exercise 5 - Temperature sensor 
