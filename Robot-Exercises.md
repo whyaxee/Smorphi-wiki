@@ -14,7 +14,7 @@ Look through and understand how to read coding documentation, and explore the va
 ### [Exercise 4 - Basic Arduino coding](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-4)
 Learn basic Arduino coding structures, like variables, loops and conditionals.
 
-### Exercise 5 - Temperature sensor 
+### [Exercise 5 - Temperature sensor](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-5) 
 Set up and use your Smorphi kit's temperature sensor for various activities and purposes
 
 ### Exercise 6 - Sound sensor
