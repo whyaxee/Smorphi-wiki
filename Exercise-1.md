@@ -14,7 +14,7 @@
 Steps | Description
 -- | --
 1 | Open up your Smorphi kit and follow the assembly manual to put together the robot and connect all the electronics
-2 | Go into Google play store to download the Smorphi app. [Insert link here? Insert app name]
+2 | Our app is still currently under review on the Google play store, please head over to our [Smorphi App github](https://github.com/WefaaRobotics/Smorphi-App-Android/tree/main/SimpleBluetoothTerminal-final/app/release) to download the latest release of the app
 3 | Follow the instructions in the assembly manual to connect the robot to your phone/ tablet via Bluetooth
 4 | Try out all the basic locomotion (Moving, turning, pivoting and shape change) using the app
 5 | Have fun!
