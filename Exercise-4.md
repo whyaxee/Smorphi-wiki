@@ -1,4 +1,4 @@
-This exercise is still currently under revision. We will update the latest version soon.
+This exercise is still currently under revision. We will update the latest version soon!
 ## Items needed:
 * An assembled Smorphi/ Smorphi
 * A computer
