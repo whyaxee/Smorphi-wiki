@@ -23,7 +23,7 @@ Set up and use your Smorphi kit's sound sensors for various activities and purpo
 ### [Exercise 7 - Infrared (IR) for obstacle detection](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-7)
 Set up and use your Smorphi kit's IR sensors for various obstacle detection purposes
 
-### Exercise 8 - Simple line following using 2 IR sensors
+### [Exercise 8 - Simple line following using 2 IR sensors](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-8)
 Install your Smorphi kit's IR sensors on to your Smorphi2 for your Smorphi2 to follow a line on the ground
 
 ### Exercise 9 - Line following and obstacle detection combine
