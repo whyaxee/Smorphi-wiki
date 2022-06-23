@@ -4,7 +4,7 @@
 * A computer
 * A USB to USB-c cable
 * Internet connection
-* Black tape (?)
+* Black tape
 ## Objectives of exercise:
 1. Learn about another use of IR sensor
 2. Using an IR sensor, make Smorphi follow a line drawn on the ground
