@@ -26,7 +26,7 @@ Set up and use your Smorphi kit's IR sensors for various obstacle detection purp
 ### [Exercise 8 - Simple line following using 2 IR sensors](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-8)
 Install your Smorphi kit's IR sensors on to your Smorphi2 for your Smorphi2 to follow a line on the ground
 
-### Exercise 9 - Line following and obstacle detection combine
+### [Exercise 9 - Line following and obstacle detection combine](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-9)
 Challenge yourself by implementing line following with obstacle detection at the same time using just IR sensors
 
 ### Exercise 10 - Simple maze navigation
