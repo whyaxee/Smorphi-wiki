@@ -38,7 +38,7 @@ A slightly more complicated maze with varying widths that require shape change t
 ### [Exercise 12 - Pixycam](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-12)
 Introducing the Pixycam usage and set up
 
-### Exercise 13 - Integrate pixycam onto robot
+### [Exercise 13 - Integrate pixycam onto robot](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-13)
 Connecting Pixycam to your Smorphi2 as a sensor
 
 ### Exercise 14 - Object tracking using pixycam 
