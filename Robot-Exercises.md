@@ -44,5 +44,5 @@ Connecting Pixycam to your Smorphi2 as a sensor
 ### Exercise 14 - Object tracking using pixycam 
 Using your Pixycam to track and follow objects
 
-### [Exercise 15 - bring them through the code, ask them to make their own library](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-15)
+### [Exercise 15 - Make your own library](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-15)
 Code exploration exercise to understand the background functions in depth
