@@ -32,7 +32,7 @@ Challenge yourself by implementing line following with obstacle detection at the
 ### [Exercise 10 - Simple maze navigation](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-10)
 Code your Smorphi to allow it to navigate through a simple maze
 
-### Exercise 11 - Maze with shape change
+### [Exercise 11 - Maze with shape change](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-11)
 A slightly more complicated maze with varying widths that require shape change to navigate through
 
 ### Exercise 12 - Pixycam
