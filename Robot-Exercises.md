@@ -35,7 +35,7 @@ Code your Smorphi to allow it to navigate through a simple maze
 ### [Exercise 11 - Maze with shape change](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-11)
 A slightly more complicated maze with varying widths that require shape change to navigate through
 
-### Exercise 12 - Pixycam
+### [Exercise 12 - Pixycam](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-12)
 Introducing the Pixycam usage and set up
 
 ### Exercise 13 - Integrate pixycam onto robot
