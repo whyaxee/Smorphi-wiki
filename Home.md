@@ -4,7 +4,7 @@ Thank you all for visiting the Smorphi Wiki. This page aims to be a one stop pag
 
 # Smorphi App
 
-Our current Android app is still being approved by the Google play store, and we will update the link here when the app is approved. For now, please download the app from our [Smorphi App Github](https://github.com/WefaaRobotics/Smorphi-App-Android/tree/main/SimpleBluetoothTerminal-final/app/release). 
+Please download the app from our [Smorphi App Github](https://github.com/WefaaRobotics/Smorphi-App-Android/tree/main/SimpleBluetoothTerminal-final/app/release) or the [Google Play Store] (https://play.google.com/store/apps/details?id=de.kai_morich.smorphi_app)
 
 # Robot exercises
 
