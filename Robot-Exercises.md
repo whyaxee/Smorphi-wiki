@@ -41,6 +41,9 @@ Introducing the Pixycam usage and set up
 ### [Exercise 13 - Integrate pixycam onto robot using I2C protocol](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-13)
 Connecting Pixycam to your Smorphi2 as a sensor
 
+### [Exercise 14 - Integrate pixycam onto robot using ICSP protocol](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-14)
+Connecting Pixycam to your Smorphi2 as a sensor
+
 ### [Exercise 15 - Customise your app to control Smorphi](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-15) 
 Make your own app that you can use to control Smorphi
 
