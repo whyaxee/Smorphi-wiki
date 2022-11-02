@@ -44,5 +44,5 @@ Connecting Pixycam to your Smorphi2 as a sensor
 ### [Exercise 14 - Customise your app to control Smorphi](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-14) 
 Make your own app that you can use to control Smorphi
 
-### [Exercise 15 - Make your own library](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-15)
+### [Exercise 16 - Make your own library](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-15)
 Code exploration exercise to understand the background functions in depth
