@@ -32,17 +32,17 @@ Challenge yourself by implementing line following with obstacle detection at the
 ### [Exercise 10 - Pixycam](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-10)
 Introducing the Pixycam usage and set up
 
-### [Exercise 11 - Maze with shape change](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-11)
-A slightly more complicated maze with varying widths that require shape change to navigate through
+### [Exercise 11 - Integrate pixycam onto robot using ICSP protocol(Recommended Methodology)](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-11)
+Connecting Pixycam to your Smorphi2 as a sensor
 
-### [Exercise 12 - Simple maze navigation](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-12)
+### [Exercise 12 - Integrate pixycam onto robot using I2C protocol](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-12)
+Connecting Pixycam to your Smorphi2 as a sensor
+
+### [Exercise 13 - Simple maze navigation](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-13)
 Code your Smorphi to allow it to navigate through a simple maze
 
-### [Exercise 13 - Integrate pixycam onto robot using ICSP protocol(Recommended Methodology)](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-13)
-Connecting Pixycam to your Smorphi2 as a sensor
-
-### [Exercise 14 - Integrate pixycam onto robot using I2C protocol](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-14)
-Connecting Pixycam to your Smorphi2 as a sensor
+### [Exercise 14 - Maze with shape change](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-14)
+A slightly more complicated maze with varying widths that require shape change to navigate through
 
 ### [Exercise 15 - Customise your app to control Smorphi](https://github.com/WefaaRobotics/Smorphi/wiki/Exercise-15) 
 Make your own app that you can use to control Smorphi
