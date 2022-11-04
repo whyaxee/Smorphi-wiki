@@ -13,5 +13,5 @@ Please download the app from our [Smorphi App Github](https://github.com/WefaaRo
 There are many things you can do with your Smorphi and Smorphi2 robots. Do explore some of the [exercises](https://github.com/WefaaRobotics/Smorphi/wiki/Robot-Exercises) to access some mini projects and tasks you can do with your Smorphi.
 
 #  Smorphi Datasheet
-Want to know more about the specifications of the robot? The [datasheet](https://github.com/whyaxee/Smorphi/wiki/Smorphi-Datasheet) provides information on the masterboard and slaveboard used in the robot.
+Want to know more about the specifications of the robot? The [datasheet](https://github.com/WefaaRobotics/Smorphi/wiki/Smorphi-Datasheet) provides information on the masterboard and slaveboard used in the robot.
 
