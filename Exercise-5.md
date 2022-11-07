@@ -1,7 +1,7 @@
 
 This exercise is still currently under revision. We will update the latest version soon!
 ## Items needed:
-* An assembled Smorphi/ Smorphi robot
+* An assembled Smorphi mini/ Smorphi <sup>2</sup> robot
 * Wefaa temperature sensor
 * A computer
 * A USB to USB-c cable
