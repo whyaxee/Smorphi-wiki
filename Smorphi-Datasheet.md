@@ -1,6 +1,6 @@
 This datasheet provides information on the hardware provided mainly (masterboard and slaveboard)
 
-## Table of contents:
+# Table of contents:
 ### [1. Overview](https://github.com/whyaxee/Smorphi/wiki/1.-Overview)
 
 Provides the main details of the masterboard.
