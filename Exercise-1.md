@@ -1,11 +1,11 @@
 ## Items needed:
-* Smorphi/Smorphi2 kit, which includes the manual and toolbox
+* Smorphi mini/Smorphi <sup>2</sup> kit, which includes the assembly manual and toolbox
 * An Android smartphone or tablet
-* An M3 hex head screwdriver (optional. An M3 hex Allen key is provided in the toolbox within the Smorphi/ Smorphi2 kit)
+* An M3 hex head screwdriver (optional. An M3 hex Allen key is provided in the toolbox within the Smorphi mini/Smorphi <sup>2</sup> kit)
 
 ## Objectives of exercise:
-1. Assemble your Smorphi/ Smorphi2
-2. Set up your Smorphi/Smorphi2 for teleoperation
+1. Assemble your Smorphi mini/Smorphi <sup>2</sup>
+2. Set up your Smorphi mini/Smorphi <sup>2</sup> for teleoperation
 3. Learn about the different basic components that makes up a robot
 4. Have fun!
 
