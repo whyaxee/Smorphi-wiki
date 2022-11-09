@@ -2,7 +2,7 @@ This exercise is still currently under revision. We will update the latest versi
 ## Items needed:
 * An assembled Smorphi mini/ Smorphi <sup>2</sup>
 * A computer
-* A USB to USB-c cable
+* A USB to USB-C cable
 * Internet connection
 ## Objectives of exercise:
 1. Learn about the various common coding languages being used today
