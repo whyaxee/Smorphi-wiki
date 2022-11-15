@@ -1,6 +1,6 @@
 
 ## Items needed:
-* An assembled Smorphi/ Smorphi2 robot
+* An assembled Smorphi mini / Smorphi <sup> 2</sup> robot
 * Pixycam set (can all be found in the PixyCam box)
 * A computer
 * Internet connection
