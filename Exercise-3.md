@@ -1,7 +1,7 @@
 ## Items needed:
 * An assembled Smorphi mini/ Smorphi <sup>2</sup> robot
 * A computer
-* A USB to USB-c cable
+* A USB to USB-C cable
 * Internet connection
 ## Objectives of exercise:
 1. Learn how to read code documentation
