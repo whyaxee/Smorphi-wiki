@@ -1,12 +1,12 @@
 ## Items needed:
-* An assembled Smorphi mini / Smorphi <sup>2</sup> robot
+* An assembled Smorphi <sup>2</sup> robot
 * Pixycam
 * A computer
-* A USB to USB-c cable
+* A USB to USB-C cable
 * Internet connection
 * 4 jumper female to female cables
 ## Objectives of exercise:
-1. Learn about various things you can do with a camera in CV
+1. Learn about various things you can do with a camera in Computer Vision (CV)
 2. Learn how to connect your pixycam with your Smorphi
 3. Learn how to detect colours using the pixycam
 
