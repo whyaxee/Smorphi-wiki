@@ -1,6 +1,6 @@
 
 ## Items needed:
-* An assembled Smorphi mini/ Smorphi <sup>2</sup> robot
+* An assembled Smorphi mini / Smorphi <sup>2</sup> robot
 * Wefaa sound sensor
 * A computer
 * A USB to USB-c cable
