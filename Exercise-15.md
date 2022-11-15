@@ -1,5 +1,5 @@
 ## Items needed:
-* An assembled Smorphi/ Smorphi2 robot
+* An assembled Smorphi mini / Smorphi<sup> 2</sup> robot
 * A computer
 * Internet connection
 ## Objectives of exercise:
