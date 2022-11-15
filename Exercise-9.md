@@ -1,8 +1,8 @@
 ## Items needed:
-* An assembled Smorphi/ Smorphi2 robot
+* An assembled Smorphi mini / Smorphi <sup>2 </sup> robot
 * Wefaa InfraRed (IR) sensor
 * A computer
-* A USB to USB-c cable
+* A USB to USB-C cable
 * Internet connection
 * Black tape
 * Opaque items to be used as obstacles
