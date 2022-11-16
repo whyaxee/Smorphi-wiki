@@ -3,7 +3,7 @@
 * An assembled Smorphi mini / Smorphi <sup>2</sup> robot
 * Wefaa sound sensor
 * A computer
-* A USB to USB-c cable
+* A USB to USB-C cable
 * Internet connection
 ## Objectives of exercise:
 1. Learn about the use of sound sensor
